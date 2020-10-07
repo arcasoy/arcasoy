@@ -2,6 +2,7 @@
 
 - 🐾 I study at Northeastern University
 - 📚 I'm currently studying for BS in Mechanical Engineering and MS in Engineering Management
+- 🔍 I'm interested in automation, mating my mechanical experience and self-taught programming
 - 📫 You can reach me by:
   - Email: arcasoy1@gmail.com | arcasoy.a@northeastern.edu
 - 🌱 I’m currently learning statistics & brushing up on Python
