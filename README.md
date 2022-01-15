@@ -1,9 +1,9 @@
 ### I'm Alex, nice to meet you! 👋
 
-- 🐾 I study at Northeastern University
-- 📚 I'm currently studying for BS in Mechanical Engineering and MS in Engineering Management
+- 🐾 I just graduated from Northeastern University
+- 📚 I studied Mechanical Engineering (BS) and Engineering Management (MS)
 - 🔍 I'm interested in mating my mechanical experience and self-taught programming
-- 💼 I'm currently co-oping as a Controls Engineer building automation equipment
+- 💼 I'm working as a Mechanical Engineer building automation equipment for hydrogen fuel cells
 - 🔭 My next personal project is my website redesign
 - 📫 You can reach me by:
   - Email: arcasoy1@gmail.com | arcasoy.a@northeastern.edu
