@@ -7,7 +7,7 @@
 - 🔭 My next projects are 3D printer automation & induction charging keyboard
 - 📫 You can reach me by:
   - Email: arcasoy1@gmail.com
-  - Discord: AX#0709
+  - Discord: [AX#0709](https://discord.com/users166055639322329088)
 - ⚡ Fun fact: I am a competitive rower 🚣 
 <!-- - 🌱 I’m currently learning --> 
 
