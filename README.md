@@ -4,9 +4,10 @@
 - 📚 I studied Mechanical Engineering (BS) and Engineering Management (MS)
 - 🔍 I'm interested in mating my mechanical experience and self-taught programming
 - 💼 I'm working as a Mechanical Engineer building automation equipment for hydrogen fuel cells
-- 🔭 My next personal project is my website redesign
+- 🔭 My next projects are 3D printer automation & induction charging keyboard
 - 📫 You can reach me by:
-  - Email: arcasoy1@gmail.com | arcasoy.a@northeastern.edu
+  - Email: arcasoy1@gmail.com
+  - Discord: AX#0709
 - ⚡ Fun fact: I am a competitive rower 🚣 
 <!-- - 🌱 I’m currently learning --> 
 
