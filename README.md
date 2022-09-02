@@ -2,11 +2,9 @@
 
 - 🔍 I'm looking to break into software engineering
 - 🔭 I'm currently working on my [portfolio rebuild](https://github.com/arcasoy/Portfolio) using React
-
 - 🐾 I graduated from Northeastern University in December of 2021
 - 📚 I studied Mechanical Engineering (BS) and Engineering Management (MS)
 - 💼 I'm working as a Mechanical Engineer building automation equipment for hydrogen fuel cells
-
 - 📫 You can reach me by:
   - Email: arcasoy1@gmail.com
   - Discord: [AX#0709](https://discord.com/users/166055639322329088)
