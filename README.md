@@ -1,11 +1,11 @@
 ### I'm Alex, nice to meet you! 👋
 
-- 🌱 I’m currently learning full stack development, focusing on learning more of the backend
 - 💼 I work as a Software Engineer @ Dover Corporation
 - 📚 I studied Mechanical Engineering (BS) and Engineering Management (MS)
 - 📫 You can reach me by:
   - Email: arcasoy1@gmail.com
   - Discord: [AX#0709](https://discord.com/users/166055639322329088)
+- 🌱 I’m currently learning full stack development by launching my first fully fledged e-commerce site
 - ⚡ Fun fact: I am a competitive rower 🚣 
 
 <!--
