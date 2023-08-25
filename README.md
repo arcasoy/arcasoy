@@ -1,12 +1,13 @@
 ### I'm Alex, nice to meet you! 👋
 
-- 💼 I work as a Software Engineer @ Dover Corporation (We use Azure Git, please excuse the quiet contribution history)
+- 💼 I work as a Software Engineer @ Dover Corporation
 - 📚 I studied Mechanical Engineering (BS) and Engineering Management (MS)
 - 📫 You can reach me by:
   - Email: arcasoy1@gmail.com
   - Discord: [AX#0709](https://discord.com/users/166055639322329088)
 - 🌱 I’m currently learning full stack development by launching my first fully fledged e-commerce site
-- ⚡ Fun fact: I am a competitive rower 🚣 
+- ⚡ Fun fact: I am a competitive rower 🚣
+- ✏️ Side Note: We use Azure Git @ Dover, please excuse the quiet commit graph
 
 <!--
 **arcasoy/arcasoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
