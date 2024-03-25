@@ -5,8 +5,7 @@
 - 📫 You can reach me by:
   - Email: arcasoy1@gmail.com
   - Discord: [AX#0709](https://discord.com/users/166055639322329088)
-- 🌱 I’m currently learning full stack development by launching my first fully fledged e-commerce site
-- ⚡ Fun fact: I am a competitive rower 🚣
+- ⚡ Fun fact: I code to electronic music
 - ✏️ Side Note: We use Azure Git @ Dover, please excuse the quiet commit graph
 
 <!--
