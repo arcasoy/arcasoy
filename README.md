@@ -1,6 +1,6 @@
 ### I'm Alex, nice to meet you! 👋
 
-- 💼 I work as a Software Engineer @ a Stealth Startup
+- 💼 I work as a Software Engineer @ Motif
 - 📚 I studied Mechanical Engineering (BS) and Engineering Management (MS)
 - 📫 You can reach me by:
   - Email: arcasoy1@gmail.com
